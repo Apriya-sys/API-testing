@@ -5,4 +5,4 @@
 
 (https://youtu.be/6RdYmpijPTQ?si=3TjSC4PYKuGcq2SM)-API POSTMAN 
 
-(https://youtu.be/S6B1bKju39U)
+(https://youtu.be/S6B1bKju39U)-BUG REPORT AI
